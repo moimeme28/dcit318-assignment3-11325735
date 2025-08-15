@@ -1,0 +1,4 @@
+C:\Users\alber\Downloads\Harley Quinn\obj\Debug\net8.0\CSharpSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Downloads\Harley Quinn\obj\Debug\net8.0\CSharpSolutions.AssemblyInfoInputs.cache
+C:\Users\alber\Downloads\Harley Quinn\obj\Debug\net8.0\CSharpSolutions.AssemblyInfo.cs
+C:\Users\alber\Downloads\Harley Quinn\obj\Debug\net8.0\CSharpSolutions.csproj.CoreCompileInputs.cache
